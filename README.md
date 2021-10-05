@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @armandkapllani
+- 👋 Hi, I’m Armand Kapllani. 
 - 👀 I’m interested in econometrics.
 - 🌱 I’m currently learning network formations. 
 - 💞️ I’m looking to collaborate on econometrics of networks. 
